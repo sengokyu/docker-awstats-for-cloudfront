@@ -1,0 +1,8 @@
+.git
+.gitignore
+LICENSE
+Makefile
+README.*
+docker-compose.*
+.env
+.env.*
